@@ -1,0 +1,44 @@
+body {
+	padding-top: 250px;
+	padding-left: 550px;
+}
+
+.title {
+	padding-left: 150px;
+}
+
+.title, .footer {
+	color: #260C0C;
+	font-size: 26px;
+	line-height: 44px;
+	letter-spacing: -2px;
+	text-decoration: underline;
+}
+
+.main {
+	display: block;
+	width: 600px;
+	height: 400px;
+	padding: 10px;
+	border: 1px solid #aaa;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-family: "Arial", Arial, Helvetica, sans-serif;
+	background-color: #eee;
+}
+
+.wrap {
+	padding-top: 30px;
+	padding-left: 50px;
+	padding-bottom: 20px;
+}
+
+.buttons {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-bottom: 100px;
+}
+
+.upop, .fpop, .mpop{
+	display: none;
+}
